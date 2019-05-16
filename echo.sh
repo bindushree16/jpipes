@@ -1,0 +1,2 @@
+
+echo 'Hello bash test!'
