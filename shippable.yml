@@ -1,7 +1,7 @@
 resources:
   - name: sample_scriptrepo
     type: gitRepo
-    repoPath: jpline/sample-script
+    repoPath: bindushree16/jpipes
     configuration:
       integrationName: github
       branches:
@@ -11,7 +11,7 @@ resources:
       
   - name: imageDocker
     type: image
-    imageName: shippabledocker/sample-node
+    imageName: bindu166/adding
     configuration:
       integrationName: dockerInt
     initialVersion:
