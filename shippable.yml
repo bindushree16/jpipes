@@ -3,7 +3,7 @@ resources:
     type: gitRepo
     repoPath: bindushree16/jpipes
     configuration:
-      integrationName: github
+      integrationName: bindu_github
       branches:
         only: pipe
     initialVersion:
